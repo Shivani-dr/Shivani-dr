@@ -19,7 +19,9 @@
 #### 📈 BI & Visualization
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
 
 #### ☁️ Cloud, Databases & Data Platforms
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -36,8 +38,11 @@
 
 ---
 ### 📊 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivani-jain&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivani-jain&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivani-jain&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivani-jain&layout=compact&theme=dark&hide_border=true)
+### 📊 GitHub Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivani-jain&show_icons=true)
+
 
 ---
 

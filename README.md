@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hey there! 👋 I'm Shivani
 
-<!--
-**Shivani-dr/Shivani-dr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 About Me
+- 📊 Data Analyst with experience in BFSI, E-commerce & IT
+- 📈 Interested in Data Governance & Risk Analytics
+- 🧠 Background in Economics (BSc + MSc)
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- Python | SQL | Excel | Power BI
+- Pandas | NumPy | Matplotlib
+- AWS (S3, Athena, Glue)
+- Git | GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivani123&show_icons=true&theme=dark)
+
+### 🔗 Connect with Me
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📧 your@email.com

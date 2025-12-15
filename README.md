@@ -10,8 +10,7 @@
 
 ### 🛠 Tech Stack (Core Strengths)
 
-#### 📊 Data Analysis & Programming 
-![Python](https://img.shields.io/badge/Python-3C3C3C?style=flat&logo=python&logoColor=white)
+#### 📊 Data Analysis & Programming ![Python](https://img.shields.io/badge/Python-3C3C3C?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-3C3C3C?style=flat&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-3C3C3C?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-3C3C3C?style=flat&logo=numpy&logoColor=white)

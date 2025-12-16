@@ -31,4 +31,4 @@
 
 ### 🔗 Connect with Me
 - 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN  
-- 📧 Email: your@email.com
+- 📧 Email: shivani000010@gmail.com

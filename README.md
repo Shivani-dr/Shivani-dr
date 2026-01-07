@@ -1,7 +1,7 @@
 ## Hey there! 👋 I'm Shivani
 
 ### 👩‍💻 About Me
-- 📊 Data Analyst with **3.5 years of experience** across **BFSI, E-commerce, and IT services**
+- 📊 Data Analyst with **3.7 years of experience** across **BFSI, E-commerce, and IT services**
 - 🏦 Currently working on **credit bureau data, risk analytics, and portfolio insights**
 - 📈 Actively transitioning toward **Data Governance, Risk Analytics, and Strategy roles**
 - 🧠 Strong foundation in **Economics (BSc + MSc)** with applied business thinking
